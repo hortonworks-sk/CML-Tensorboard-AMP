@@ -29,18 +29,6 @@ tasks:
     entity_label: install_dependencies
     short_summary: Run the install dependencies job.
     long_summary: Run the install dependencies job.
-
-  - type: create_job
-    name: Train KNeighbors
-    entity_label: train_kneighbors
-    script: scripts/train_kneighbors.py
-    arguments: None
-    cpu: 1
-    memory: 2
-    short_summary: Create a training job for a k-nearest neighbors classifier.
-    environment:
-      TASK_TYPE: CREATE/RUN_JOB
-    kernel: python3
     
   - type: start_application
     name: Tensorboard UI
