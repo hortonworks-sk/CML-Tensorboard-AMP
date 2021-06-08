@@ -8,8 +8,6 @@ As stated on Tensorflow's homepage, [TensorBoard](https://www.tensorflow.org/ten
 - Tracking and visualizing metrics such as loss and accuracy
 - Visualizing the model graph (ops and layers)
 - Viewing histograms of weights, biases
-- Projecting embeddings to a lower dimensional space
-- Displaying images, text, and audio data
 - Profiling TensorFlow programs
 
 
@@ -28,7 +26,7 @@ The AMP comes prepopulated with
 
 
 
-** To launch this project on CML As ML Prototype ** 
+**To launch this project on CML As ML Prototype** 
 
 1. In a CML workspace, click "New Project" 
 2. Add a Project Name, 
@@ -39,7 +37,7 @@ The AMP comes prepopulated with
 
 Tensorboard Take 5 minutes to install 
 
-** To Access Tensorboard, after insallation ** 
+**To Access Tensorboard, after insallation** 
 
 1. Click Applications in the leftt menu within CML
 2. Click Tensorboard UI in the list of applications
