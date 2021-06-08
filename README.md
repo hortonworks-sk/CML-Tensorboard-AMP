@@ -28,6 +28,19 @@ The AMP comes prepopulated with
 
 
 
-To launch this project on CML:
+** To launch this project on CML As ML Prototype ** 
 
-**As ML Prototype** - In a CML workspace, click "New Project", add a Project Name, select "ML Prototype" as the Initial Setup option, copy in the [repo URL](https://github.com/hortonworks-sk/tensorboard-cml-amp.git), click "Create Project", click "Configure Project"
+1. In a CML workspace, click "New Project" 
+2. Add a Project Name, 
+3. Select "ML Prototype" as the Initial Setup option, copy in the [repo URL](https://github.com/hortonworks-sk/tensorboard-cml-amp.git), 
+4. Click "Create Project"
+5. Navigate to the newly created project
+6. In the project click "Launch Project"
+
+Tensorboard Take 5 minutes to install 
+
+** To Access Tensorboard, after insallation ** 
+
+1. Click Applications in the leftt menu within CML
+2. Click Tensorboard UI in the list of applications
+
