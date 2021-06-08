@@ -1,7 +1,7 @@
 # TensorBoard
 
 
-[TensorBoard](https://www.tensorflow.org/tensorboard/)  provides the visualization and tooling needed for machine learning experimentation:
+As stated on Tensorflow's homepage, [TensorBoard](https://www.tensorflow.org/tensorboard/)  provides the visualization and tooling needed for machine learning experimentation:
 
 - Tracking and visualizing metrics such as loss and accuracy
 - Visualizing the model graph (ops and layers)
@@ -18,8 +18,14 @@ To launch this project on CML:
 
 The AMP comes prepopulated with 
 
-** Tracking Visualizations (loss and accuracy)
+**Tracking Visualizations** (loss and accuracy)
 
-** A Model Graph ![MLflow UI in CML](/images/TensorboardGraphs.png)
-** Visualizations of Weights, biases ![MLflow UI in CML](/images/TensorboardHistograms.png)
+**A Model Graph** 
+
+![MLflow UI in CML](/images/TensorboardGraphs.png)
+
+**Visualizations of Weights and Biases** 
+
+![MLflow UI in CML](/images/TensorboardHistograms.png)
+
 
