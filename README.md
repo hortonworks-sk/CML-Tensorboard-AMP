@@ -10,10 +10,16 @@
 - Displaying images, text, and audio data
 - Profiling TensorFlow programs
 
-And much more
-
 
 
 To launch this project on CML:
 
 **As ML Prototype** - In a CML workspace, click "New Project", add a Project Name, select "ML Prototype" as the Initial Setup option, copy in the [repo URL](https://github.com/hortonworks-sk/tensorboard-cml-amp.git), click "Create Project", click "Configure Project"
+
+The AMP comes prepopulated with 
+
+** Tracking Visualizations (loss and accuracy)
+
+** A Model Graph ![MLflow UI in CML](/images/TensorboardGraphs.png)
+** Visualizations of Weights, biases ![MLflow UI in CML](/images/TensorboardHistograms.png)
+
